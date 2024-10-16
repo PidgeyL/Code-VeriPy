@@ -1,0 +1,7 @@
+# Which python versions to test
+TEST_PY3_LOWER=9
+TEST_PY3_UPPER=12
+
+# Which tests to run
+TEST_FLAKE8=true
+TEST_PYTEST=true
